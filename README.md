@@ -10,6 +10,7 @@
   - 인라인으로 데이터 형변환
 
 3. 완성
-   ![graph1](https://github.com/7rohj/scatter-plot/assets/99319638/3d9d878b-c058-4732-af78-99eefaf0252f)
+   ![graph1](https://github.com/7rohj/scatter-plot/assets/99319638/40848fe5-9332-4242-8089-cf0a75df2951)
+
 
 
